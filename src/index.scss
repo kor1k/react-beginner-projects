@@ -59,6 +59,13 @@ body {
       border: 1px solid darken(#2a9d8f, 15%);
     }
 
+    &.reset {
+      background-color: gray;
+      color: #fff;
+      box-shadow: 0 4px 0 darken(gray, 10%);
+      border: 1px solid darken(gray, 15%);
+    }
+
     &:hover {
       transform: translateY(-2px);
     }
