@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0cfa14-ffd5-421d-8a5c-94ed434b4062" name="Changes" comment="photos collection app with mockAPI" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="photos" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EJpOfBPGWo7yvDk3Mq1h1UN9un" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0cfa14-ffd5-421d-8a5c-94ed434b4062" name="Changes" comment="" />
+      <created>1662323511148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662323511148</updated>
+      <workItem from="1662323513080" duration="13548000" />
+      <workItem from="1662623730859" duration="6000" />
+      <workItem from="1662708587158" duration="165000" />
+      <workItem from="1663012983394" duration="280000" />
+      <workItem from="1664953864661" duration="6114000" />
+      <workItem from="1665140755373" duration="2858000" />
+      <workItem from="1665161103311" duration="67000" />
+      <workItem from="1665161184373" duration="5334000" />
+      <workItem from="1665334055525" duration="512000" />
+    </task>
+    <task id="LOCAL-00001" summary="added counter">
+      <created>1662325923362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662325923362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added modal window (without animation)">
+      <created>1662326680341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662326680341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added modal window (added option with animation)">
+      <created>1662327431856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662327431856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added quiz">
+      <created>1662405063054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662405063054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added users project (get items from API, search from users list, add and remove invited persons and send invitations onClick)">
+      <created>1662409314177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662409314177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="a bit cleaned up code">
+      <created>1662411707611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662411707611</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix conflict">
+      <created>1665055437217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055437217</updated>
+    </task>
+    <task id="LOCAL-00008" summary="converter">
+      <created>1665137423093</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665137423093</updated>
+    </task>
+    <task id="LOCAL-00009" summary="photos collection app with mockAPI">
+      <created>1665255378899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665255378899</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added counter" />
+    <MESSAGE value="added modal window (without animation)" />
+    <MESSAGE value="added modal window (added option with animation)" />
+    <MESSAGE value="added quiz" />
+    <MESSAGE value="added users project (get items from API, search from users list, add and remove invited persons and send invitations onClick)" />
+    <MESSAGE value="a bit cleaned up code" />
+    <MESSAGE value="fix conflict" />
+    <MESSAGE value="converter" />
+    <MESSAGE value="photos collection app with mockAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="photos collection app with mockAPI" />
+  </component>
+</project>
