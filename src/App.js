@@ -17,7 +17,7 @@ function App() {
     const [categoryId, setCategoryId] = useState(0);
     const [searchValue, setSearchValue] = useState('');
     const [collections, setCollections] = useState({});
-    const viewLimitPerPage = 3;
+    const viewLimitPerPage = 5;
 
     useEffect(() => {
         setIsLoading(true);
@@ -35,9 +35,6 @@ function App() {
             .finally(() => setIsLoading(false));
     }, [categoryId, page])
 
-    // why 3 console logs?
-    // why 3 console logs?
-    // why 3 console logs?
     console.log(collections);
 
     return (
