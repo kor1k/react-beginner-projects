@@ -24,6 +24,7 @@ function App() {
     }, [])
 
     const onChangeFromPrice = (value) => {
+        console.log(this)
         const price = value / ratesRef.current[fromCurrency];
         const result = price * ratesRef.current[toCurrency]
         setToPrice(result.toFixed(3));
